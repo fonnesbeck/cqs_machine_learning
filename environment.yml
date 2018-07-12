@@ -1,0 +1,23 @@
+name: cqsml
+
+channels:
+ - conda-forge
+ 
+dependencies:
+- python=3.6
+- dask
+- ipython
+- jupyter
+- jupyterlab
+- notebook
+- ipyparallel
+- numpy
+- pandas
+- patsy
+- scikit-learn
+- scipy
+- seaborn
+- theano
+- pymc3
+- pip:
+  - tensorflow
