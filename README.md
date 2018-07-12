@@ -32,14 +32,16 @@ This intermediate-level course will provide students with hands-on experience ap
 ### Day 4: Probabilistic Programming with PyMC3
 
 * Introduction to probabilistic programming and Bayesian inference
-* Specifying priors and likelihoods
-* Deterministic variables
-* Step methods
+* Specifying probabilistic models in PyMC3
+* Model fitting
+* Model checking
 
 ### Day 5: Neural Networks with TensorFlow
 
-* Comparing two groups with continuous outcomes
-* Comparing two groups with binary outcomes
+* Introduction to programming in TensorFlow
+* Data preparation
+* Constructing deep neural networks
+* Training neural networks
 
 
 ## Software Installation
