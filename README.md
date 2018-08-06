@@ -10,7 +10,8 @@ This intermediate-level course will provide students with hands-on experience ap
 
 ### Day 1: Data Preparation
 
-* Introduction to Pandas `DataFrame` 
+* Introduction to the NumPy `ndarray`
+* Introduction to Pandas `Series` and `DataFrame` objects
 * Importing and exporting data
 * Data processing
 * Merging, joining and reshaping
