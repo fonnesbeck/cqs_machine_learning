@@ -41,8 +41,8 @@ This intermediate-level course will provide students with hands-on experience ap
 
 * Introduction to programming in TensorFlow
 * Data preparation
-* Constructing deep neural networks
 * Training neural networks
+* Building models with Keras
 
 
 ## Software Installation
@@ -79,7 +79,7 @@ source activate cqsml
 
 **If you would rather not install the software yourself, you can use the MyBinder.org link at the top of the page to run the course materials on a remote server**
 
-You can update the course materials at any time by pulling from the course repository. From your course directory, type:
+If you have used Git to download the course materials,you can update the course materials at any time by pulling from the course repository. From your course directory, type:
 
 ```bash
 git pull
