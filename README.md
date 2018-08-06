@@ -62,6 +62,8 @@ These can all be installed using `conda`, a package management tool that is bund
 git clone https://github.com/fonnesbeck/cqs_machine_learning.git
 ```
 
+If you are unfamiliar with Git, you can download and unzip a zip file of the course contents from the "Clone or download" button in the upper right part of the GitHub page button in the upper right part of the GitHub page button in the upper right part of the GitHub page button in the upper right part of the GitHub page....
+
 Then move into the directory created by the clone, and install the required packages using `conda`:
 
 ```bash
