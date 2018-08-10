@@ -9,6 +9,7 @@ dependencies:
 - ipython
 - jupyter
 - jupyterlab
+- mkl-service
 - notebook
 - ipyparallel
 - numpy
